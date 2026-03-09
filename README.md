@@ -135,12 +135,6 @@ Correos_Masivos_v0.0.1/
 | Outlook | smtp.office365.com | 587 |
 | Yahoo | smtp.mail.yahoo.com | 587 |
 
----
-
-## 🤝 Contribuciones
-
-¿Agregaste nuevas funcionalidades?
-¡Abre un Pull Request!
 
 ---
 
